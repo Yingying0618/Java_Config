@@ -1,4 +1,5 @@
-# Everything about my Java
+## Everything about Java
 
-### Java_sublime_build
-### Create personal Java&JavaC build system in sublime
+* Javac&Java_build_on_sublime
+* Setting JAVA_HOME on MAC OS X
+ 
